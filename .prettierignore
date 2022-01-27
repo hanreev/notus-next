@@ -1,0 +1,16 @@
+/node_modules
+/build
+/.next
+/out
+
+*.ttf
+*.otf
+*.eot
+*.woff
+*.woff2
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
